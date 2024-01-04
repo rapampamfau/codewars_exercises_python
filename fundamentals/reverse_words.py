@@ -14,7 +14,3 @@ def reverse_words(text):
             result.append(reversed_word)
     
     return "".join(result)
-        
-
-
-print(reverse_words("X D XD "))
